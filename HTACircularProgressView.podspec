@@ -8,12 +8,13 @@ Pod::Spec.new do |s|
                        DESC
   s.homepage         = "https://github.com/malolans/HTACircularProgressView"
   s.screenshots      = "https://raw.githubusercontent.com/malolans/HTACircularProgressView/master/ScreenCap.gif"
-  s.license          = 'MIT'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Malolan Santhanakrishnan" => "malolan.santhanakrishnan@gmail.com" }
   s.source           = { :git => "https://github.com/malolans/HTACircularProgressView.git", :tag => "v#{s.version}" }
   s.social_media_url = 'https://twitter.com/malolan_s'
 
   s.platform     = :ios, '7.0'
+  s.ios.deployment_target = '7.0'
 
   s.requires_arc = true
 
