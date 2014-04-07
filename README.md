@@ -6,6 +6,10 @@ A sample project using `HTACircularProgressView` is included in this repository.
 
 ![Screen Shot](https://raw.githubusercontent.com/malolans/HTACircularProgressView/master/ScreenCap.gif)
 
+# Instructions
+
+Please refer to [this link](http://www.malolans.com/2014/04/06/htacircularprogressview-a-circular-progress-view/) for usage and information.
+
 # LICENSE
 Copyright (C) 2014 Malolan Santhanakrishnan
 
